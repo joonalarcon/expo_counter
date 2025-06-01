@@ -1,6 +1,6 @@
 # 📱 Counter App
 
-![Pantallazo de la app](./screenshots/app-screenshot.jpeg)
+![Pantallazo de la app](./assets/screenshots/app-screenshot.jpeg)
 
 Una simple aplicación de contador construida con **React Native**, **Tailwind CSS** y **Expo**, desplegada con **EAS Build**. Esta versión final no depende de Expo Go: genera un `.apk` independiente.
 
